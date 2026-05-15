@@ -1,5 +1,0 @@
-C:\Users\PC\SystemGuardian\src\SystemGuardian.Agents\obj\Release\net8.0\SystemGuardian.Agents.csproj.AssemblyReference.cache
-C:\Users\PC\SystemGuardian\src\SystemGuardian.Agents\obj\Release\net8.0\SystemGuardian.Agents.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\PC\SystemGuardian\src\SystemGuardian.Agents\obj\Release\net8.0\SystemGuardian.Agents.AssemblyInfoInputs.cache
-C:\Users\PC\SystemGuardian\src\SystemGuardian.Agents\obj\Release\net8.0\SystemGuardian.Agents.AssemblyInfo.cs
-C:\Users\PC\SystemGuardian\src\SystemGuardian.Agents\obj\Release\net8.0\SystemGuardian.Agents.csproj.CoreCompileInputs.cache
