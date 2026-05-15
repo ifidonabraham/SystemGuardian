@@ -1,0 +1,12 @@
+c:\Users\PC\SystemGuardian\src\SystemGuardian.Core\obj\Debug\net8.0\SystemGuardian.Core.csproj.AssemblyReference.cache
+c:\Users\PC\SystemGuardian\src\SystemGuardian.Core\obj\Debug\net8.0\SystemGuardian.Core.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\PC\SystemGuardian\src\SystemGuardian.Core\obj\Debug\net8.0\SystemGuardian.Core.AssemblyInfoInputs.cache
+c:\Users\PC\SystemGuardian\src\SystemGuardian.Core\obj\Debug\net8.0\SystemGuardian.Core.AssemblyInfo.cs
+c:\Users\PC\SystemGuardian\src\SystemGuardian.Core\obj\Debug\net8.0\SystemGuardian.Core.csproj.CoreCompileInputs.cache
+c:\Users\PC\SystemGuardian\src\SystemGuardian.Core\bin\Debug\net8.0\SystemGuardian.Core.deps.json
+c:\Users\PC\SystemGuardian\src\SystemGuardian.Core\bin\Debug\net8.0\SystemGuardian.Core.dll
+c:\Users\PC\SystemGuardian\src\SystemGuardian.Core\bin\Debug\net8.0\SystemGuardian.Core.pdb
+c:\Users\PC\SystemGuardian\src\SystemGuardian.Core\obj\Debug\net8.0\SystemGuardian.Core.dll
+c:\Users\PC\SystemGuardian\src\SystemGuardian.Core\obj\Debug\net8.0\refint\SystemGuardian.Core.dll
+c:\Users\PC\SystemGuardian\src\SystemGuardian.Core\obj\Debug\net8.0\SystemGuardian.Core.pdb
+c:\Users\PC\SystemGuardian\src\SystemGuardian.Core\obj\Debug\net8.0\ref\SystemGuardian.Core.dll
