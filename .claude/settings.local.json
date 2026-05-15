@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "PowerShell(dotnet build \"c:\\\\Users\\\\PC\\\\SystemGuardian\\\\SystemGuardian.sln\" --configuration Debug 2>&1 | Where-Object { $_ -match \"error|warning|Error|Warning|succeeded|failed\" } | Select-Object -First 30)",
-      "PowerShell(dotnet build \"c:\\\\Users\\\\PC\\\\SystemGuardian\\\\SystemGuardian.sln\" --configuration Debug 2>&1 | Where-Object { $_ -match \" error \" })",
-      "PowerShell(dotnet build \"c:\\\\Users\\\\PC\\\\SystemGuardian\\\\SystemGuardian.sln\" --configuration Debug 2>&1 | Where-Object { $_ -match \" error \" } | Sort-Object -Unique)"
-    ]
-  }
-}
